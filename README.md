@@ -14,7 +14,7 @@ go to SettingsApplication.exe to change your resolution for window mode - (1) fo
 
 If you have any issues please go to discord for help 
 
-https://discord.gg/pZwkHrTF8X
+https://discord.gg/eVJ7sQH7Cc
 
 window mode brought to you by Fix Enhancers 
 
