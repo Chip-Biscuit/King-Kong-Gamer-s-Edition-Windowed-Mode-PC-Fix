@@ -18,6 +18,8 @@ https://discord.gg/eVJ7sQH7Cc
 
 window mode brought to you by Fix Enhancers 
 
+https://fixenhancers.wixsite.com/fix-enhancers
+
 Team: 
 
 Chip, JokerAlex21.
