@@ -2,28 +2,34 @@
 
 ![kingkong](https://github.com/user-attachments/assets/4119a05c-5384-4a86-b444-b772e4cf50d3)
 
-simply put the d3d9.dll and d3d9.ini into your game folder next to the game exe replace the origional files that are there with these and your good to go.
+# Requirements before using fix
+This fix should be used with https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/kingkong  The d3d9.dll and d3d9.ini files from the ThirteenAG fix should be replaced with the ones from the Fix Enhancers fix.
 
-you can edit settings in d3d9.ini 
+# Instructions
+Go to the releases page and download the latest release of the KingKongGamersEditionFix.zip file. Then extract the d3d9.dll and d3d9.ini files into your game folder next to the KingKong.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
-Default for FPS cap is 60 you can change it as you like or uncap with 0.
+# Window Mode
+The only addition to this fix is Window Mode functionality which will allow you to turn on Window Mode inside of the d3d9.ini file. The rest of the options are ThirteenAG’s existing fixes for the King Kong Gamer’s Edition version of the game specifically.
 
-the only thing added to this is window mode functionality so you can turn window mode on or off in the d3d9.ini. to be clear it just adds window mode into 13AG's existing fixes for this game specifically Gamers Edition Version.
+By having the game in window mode this will allow you to be able to use alt tab without any issues which are normally present in fullscreen.
 
-having the game in window mode fixes issues with alt tabbing.
+To use the Window Mode, you must go to SettingsApplication.exe to change your resolution for window mode - (1) for the window size and don’t forget if you set it to (0) - fullscreen to make sure you set it back to what you want your fullscreen resolution to be.
 
-go to SettingsApplication.exe to change your resolution for window mode - (1) for the window size, dont forget if you set it to (0) - fullscreen, to set it back to what you want your fullscreen resolution to be.
+# FPS
+The default for FPS is (60) you can change it as you wish or fully uncap it with 0 with the FPSLimit option in the d3d9.ini file.
 
-If you have any issues please go to discord for help 
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/peter-jackson-s-king-kong-the-official-game-of-the-movie 
 
-https://discord.gg/eVJ7sQH7Cc
+# Issues/Problems
+If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
-window mode brought to you by Fix Enhancers 
+Credits
 
-https://fixenhancers.wixsite.com/fix-enhancers
+Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
 
-Team: 
+Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-Chip, JokerAlex21.
+Team:
 
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
+Chip and JokerAlex21.
