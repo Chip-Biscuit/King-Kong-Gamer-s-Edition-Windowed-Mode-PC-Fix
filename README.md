@@ -1,5 +1,7 @@
 # King-Kong-Gamer’s-Edition-Windowed-Mode-PC-Fix
 
+![kingkong](https://github.com/user-attachments/assets/4119a05c-5384-4a86-b444-b772e4cf50d3)
+
 simply put the d3d9.dll and d3d9.ini into your game folder next to the game exe replace the origional files that are there with these and your good to go.
 
 you can edit settings in d3d9.ini 
