@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # King-Kong-Gamer’s-Edition-Windowed-Mode-PC-Fix
 
 ![kingkong](https://github.com/user-attachments/assets/4119a05c-5384-4a86-b444-b772e4cf50d3)
